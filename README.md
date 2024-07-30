@@ -1,4 +1,4 @@
-Here you can find a set of Notebooks introducing the Variational Quantum Eigensolver (VQE) from its very foundations with qiskit 1.0x (latest release). Hopefully it will furnish beginners a good starting point in their journey with quantum algorithms and qiskit 1.0x.
+Here you can find a series of Notebooks introducing the Variational Quantum Eigensolver (VQE) from its very foundations with qiskit 1.0x (latest release). Hopefully it will furnish beginners a good starting point in their journey with quantum algorithms and qiskit 1.0x.
 
 I intend to constantly update this repository, so keep an eye out for more. Today you can find:
 
