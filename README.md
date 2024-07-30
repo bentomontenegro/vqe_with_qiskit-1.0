@@ -1,10 +1,16 @@
-Here you can find a series of Notebooks introducing the Variational Quantum Eigensolver (VQE) from its very foundations with qiskit 1.0x (latest release). Hopefully it will furnish beginners a good starting point in their journey with quantum algorithms and qiskit 1.0x.
+### Introduction
 
-I intend to constantly update this repository, so keep an eye out for more. Today you can find:
+Here you can find a series of Jupyter Notebooks introducing the Variational Quantum Eigensolver (VQE) from its very foundations with qiskit 1.0x (latest release). 
 
-### A beginner-friendly implementation of the VQE with qiskit 1.0 (Part 1)
+Hopefully it will provide a good starting point for beginners in their journey with quantum algorithms and qiskit. I intend to constantly update this repository, so keep an eye out for more.
+
+### Today's files
+
+#### The Variational Method in Quantum Mechanics (pdf)
+  A detailed tutorial covering all the basic theory behind VQE. Background needed: basic quantum mechanics
+#### A beginner-friendly implementation of VQE with qiskit 1.0x (Part 1)
   Implementing VQE to find the ground state of the Hamiltonian H = Z.
-### A beginner-friendly implementation of the VQE with qiskit 1.0 (Part 2)
+#### A beginner-friendly implementation of VQE with qiskit 1.0x (Part 2)
   Implementing VQE to find the eigenstates of the Hamiltonian H = Z - X.
-### A beginner-friendly implementation of the VQE with qiskit 1.0 (Part 3)
-  The same cases of the last Notebooks but with more advanced tools, like functions and SciPy optimizers.
+#### A beginner-friendly implementation of VQE with qiskit 1.0x (Part 3)
+  The same cases of the last Notebooks but with more advanced and scalable(!) tools, like functions and SciPy optimizers.
